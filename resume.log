@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.20)  23 FEB 2026 11:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.20)  23 FEB 2026 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -657,20 +657,20 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 28B2547E2D6A56BB4DBFB5D7EC4F1811;2716.
+(rerunfilecheck)             Checksum: DCF586CD50CDA8746784171E1FDD6981;2438.
  ) 
 Here is how much of TeX's memory you used:
- 14763 strings out of 467866
- 238584 string characters out of 5435160
- 714300 words of memory out of 5000000
- 43367 multiletter control sequences out of 15000+600000
+ 14761 strings out of 467866
+ 238554 string characters out of 5435160
+ 712300 words of memory out of 5000000
+ 43366 multiletter control sequences out of 15000+600000
  706072 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  140i,11n,135p,378b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><D:/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><D:/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on resume.pdf (1 page, 190858 bytes).
+Output written on resume.pdf (1 page, 189752 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
