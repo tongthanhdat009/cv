@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.20)  27 FEB 2026 09:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.20)  14 MAR 2026 19:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -628,54 +628,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
 ) (sections/experience.tex
-LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 5.
+LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 7.
  (D:\MiKTeX\tex/latex/sourcesanspro\ts1sourcesanspro-tlf.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 5.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 7.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 5.
-) (sections/work_experience.tex) (sections/certification.tex) (sections/activities.tex
+(Font)              scaled to size 10.0pt on input line 7.
+) (sections/work_experience.tex) (sections/certification.tex) (sections/activities.tex)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 4.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 73.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 4.
+(Font)              scaled to size 24.88pt on input line 73.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 4.
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 73.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
-(Font)              scaled to size 24.88pt on input line 4.
+(Font)              scaled to size 24.88pt on input line 73.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 4.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 73.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 4.
+(Font)              scaled to size 14.4pt on input line 73.
  [1{C:/Users/gamin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}
 
-{D:/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{D:/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}])
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.73 \end{document}
-                    [2] (resume.aux)
+{D:/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{D:/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}] (resume.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 413CC539AE353E40C815867BA96B99F5;2716.
+(rerunfilecheck)             Checksum: CF132FC755B38EC843B3907FF364844B;2716.
  ) 
 Here is how much of TeX's memory you used:
  14763 strings out of 467866
  238584 string characters out of 5435160
- 715301 words of memory out of 5000000
+ 715295 words of memory out of 5000000
  43367 multiletter control sequences out of 15000+600000
  706072 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,11n,135p,378b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 140i,11n,135p,378b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><D:/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><D:/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on resume.pdf (2 pages, 193307 bytes).
+Output written on resume.pdf (1 page, 191953 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
